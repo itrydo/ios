@@ -21,7 +21,7 @@
                 <key>bundle-identifier</key>
                 <string>me.liutan.pdd</string>
                 <key>bundle-version</key>
-                <string>2.1.35.ipa</string>
+                <string>2.1.35</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
