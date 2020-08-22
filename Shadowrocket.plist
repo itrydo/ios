@@ -13,7 +13,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://exie.me/ios/Shadowrocket.ipa</string>
+                    <string>https://exie.me/ios/Shadowrocket.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
